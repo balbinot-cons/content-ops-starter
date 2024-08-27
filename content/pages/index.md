@@ -480,7 +480,7 @@ sections:
             textAlign: center
         type: FeaturedItem
       - title: Paris 2024
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
