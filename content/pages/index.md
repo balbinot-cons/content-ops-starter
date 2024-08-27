@@ -483,7 +483,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          startup francesa transforma lixo em pódio e assentos de estádios
+          Startup francesa transforma lixo em pódio e assentos de estádios
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
