@@ -227,7 +227,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: Tempo de decomposição de resíduos
       color: text-dark
       styles:
         self:
