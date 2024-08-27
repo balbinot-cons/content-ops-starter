@@ -413,7 +413,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Estevam Biava Ramosa
+      - title: Estevam Biava Ramos
         tagline: ''
         subtitle: 'John Doe, Company'
         text: >-
