@@ -436,10 +436,10 @@ sections:
       - title: Marinês Abati
         tagline: ''
         subtitle: Professora
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Idealizadora do projeto, participou do desenvolvimento prático e
+          teórico
+
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
