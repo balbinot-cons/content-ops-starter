@@ -482,8 +482,11 @@ sections:
       - title: Paris 2024
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          # startup francesa transforma lixo em pódio e assentos de estádios
+
+
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
