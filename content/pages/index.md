@@ -500,7 +500,7 @@ sections:
         text: |
           **Participou do desenvolvimento técnico e prático do projeto**
         image:
-          url: /images/123123.jpg
+          url: /images/person-placeholder-light.png
           altText: Maria Walters
           styles:
             self:
