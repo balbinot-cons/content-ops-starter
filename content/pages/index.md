@@ -459,8 +459,7 @@ sections:
       - title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: "A grande mancha de\_lixo\_do\_Pacífico\_configura-se como um acúmulo de resíduos plásticos de 1,6 milhão de quilômetros quadrados e cerca de 80 mil toneladas.\n\n"
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
