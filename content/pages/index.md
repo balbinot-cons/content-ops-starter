@@ -88,7 +88,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: ''
-        subtitle: O que o é mais reciclado?
+        subtitle: Reciclagem no Brasil
         text: "O Brasil\_atinge apenas 2% das mais de 80 milhões de toneladas de resíduos produzidas pela população. Catadores são responsáveis por grande parte desse lixo reciclado, quase 90%, ajudando a reduzir o volume de resíduos que seriam destinados aos aterros e lixões distribuídos pelo país\n"
         image:
           type: ImageBlock
