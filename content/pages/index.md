@@ -28,7 +28,10 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/DALL·E 2024-08-27 00.28.18 - A sustainable trash bin design with
+        elements of artificial intelligence. The trash bin should be modern,
+        sleek, and eco-friendly, featuring a recyclin.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
