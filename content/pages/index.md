@@ -110,7 +110,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
-            textAlign: center
+            textAlign: left
       - type: FeaturedItem
         title: ''
         subtitle: Lixo Reciclado
