@@ -445,7 +445,7 @@ sections:
         text: |
           **Idealizadora do projeto**
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/file.jpg
           altText: Maria Walters
           styles:
             self:
