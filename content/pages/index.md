@@ -479,7 +479,7 @@ sections:
             flexDirection: col
             textAlign: center
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Paris 2024
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
