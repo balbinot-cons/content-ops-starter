@@ -234,11 +234,13 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Antes de descartar seu lixo, considere o tempo que ele leva para se
+      decompor. Evite jogar pontas de cigarro pela janela do carro ou deixar
+      embalagens plásticas e garrafas de vidro em locais públicos, como parques
+      ou mirantes. Pequenas ações fazem uma grande diferença para o meio
+      ambiente.
+
     actions: []
     media:
       title: Title of the video
