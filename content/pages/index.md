@@ -20,7 +20,7 @@ sections:
       e saudável.
 
     actions:
-      - label: Começe já
+      - label: Comece já
         altText: ''
         url: /
         showIcon: false
