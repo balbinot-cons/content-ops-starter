@@ -110,7 +110,7 @@ sections:
             textAlign: center
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: Lixo Reciclado
         text: >+
           O Brasil só reciclou 4% dos quase 82 milhões de toneladas de resíduos
           geradas em 2022. Todo o resto foi parar em aterros controlados, lixões
