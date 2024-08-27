@@ -143,7 +143,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/icone-de-negocios-sustentaveis_1167636-11470.avif
           altText: Placeholder text
           elementId: ''
           styles:
