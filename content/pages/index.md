@@ -439,7 +439,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: S
+      - title: Soliete Altenhofen
         tagline: ''
         subtitle: Professora
         text: >-
