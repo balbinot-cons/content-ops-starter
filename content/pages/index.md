@@ -140,16 +140,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: center
-    actions:
-      - label: ''
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     badge:
       label: ''
       color: text-primary
