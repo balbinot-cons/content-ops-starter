@@ -442,8 +442,10 @@ sections:
       - title: Soliete Altenhofen
         tagline: ''
         subtitle: Professora
-        text: |
-          **Idealizadora do projeto**
+        text: >+
+          **Idealizadora do projeto, participou do desenvolvimento prático e
+          teórico**
+
         image:
           url: /images/file.jpg
           altText: Maria Walters
