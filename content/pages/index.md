@@ -89,7 +89,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: O que o é mais reciclado?
-        text: "Segundo pesquisas, os resíduos\_recicláveis\_secos são compostos principalmente pelos\_plásticos\_(16,8%, com 13,8 milhões de toneladas por ano),\_papel\_e\_papelão\_(10,4%, ou 8,57 milhões de toneladas anuais), vidros (2,7%), metais (2,3%) e embalagens multicamadas (1,4%).\n\n"
+        text: "A\_reciclagem no Brasil\_atinge apenas 2% das mais de 80 milhões de toneladas de resíduos produzidas pela população. Catadores e catadoras são responsáveis por grande parte desse lixo reciclado, quase 90%, ajudando a reduzir o volume de resíduos que seriam destinados aos aterros e lixões distribuídos pelo país\n\n"
         image:
           type: ImageBlock
           url: /images/transferir (10).jfif
