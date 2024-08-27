@@ -163,7 +163,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Sustentabilidade
+      text: '5r´s '
       color: text-dark
       styles:
         self:
