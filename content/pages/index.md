@@ -91,7 +91,7 @@ sections:
           a céu aberto ou nas ruas e praças do país
 
         image:
-          url: /images/transferir (8).jfif
+          url: /images/transferir (20).png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
