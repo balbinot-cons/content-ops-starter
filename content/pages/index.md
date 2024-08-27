@@ -89,7 +89,7 @@ sections:
       - type: FeaturedItem
         title: ''
         subtitle: O que o Brasil mais recicla?
-        text: "Segundo pesquisas, os resíduos\_recicláveis\_secos são compostos principalmente pelos\_plásticos\_(16,8%, \n\ncom 13,8 milhões de toneladas\n\npor ano),\_papel\_e\_papelão\_\n\n(10,4%, ou 8,57 milhões de \n\ntoneladas anuais), vidros (2,7%),\n\n metais (2,3%) e embalagens \n\nmulticamadas (1,4%).\n"
+        text: "Segundo pesquisas, os resíduos\_recicláveis\_secos são compostos principalmente pelos\_plásticos\_(16,8%, com 13,8 milhões de toneladas por ano),\_papel\_e\_papelão\_(10,4%, ou 8,57 milhões de toneladas anuais), vidros (2,7%), metais (2,3%) e embalagens multicamadas (1,4%).\n"
         image:
           type: ImageBlock
           url: /images/transferir (10).jfif
