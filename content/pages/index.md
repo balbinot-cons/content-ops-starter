@@ -470,10 +470,9 @@ sections:
       - title: Andressa Campagnin
         tagline: ''
         subtitle: Professora
-        text: >+
-          Idealizadora do projeto, participou do desenvolvimento prático e
-          teórico
-
+        text: >
+          **Idealizadora do projeto, participou do desenvolvimento prático e
+          teórico**
         image:
           url: /images/file (1).jpg
           altText: Maria Walters
