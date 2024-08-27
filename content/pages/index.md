@@ -69,7 +69,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Lixo Produzido
         subtitle: Numbers Done
         text: "Não se pode negar que a quantidade de\_lixo produzido\_pela população mundial é exorbitante. Para ser mais exato, são 1,4 bilhão de toneladas de Resíduos Sólidos Urbanos (RSU) por ano. Isso significa uma média de 1,2 kg per capita ao dia.\n\n"
         actions: []
