@@ -507,7 +507,7 @@ sections:
             flexDirection: col
             textAlign: center
         type: FeaturedItem
-      - title: ''
+      - title: ' O Boticário'
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >+
