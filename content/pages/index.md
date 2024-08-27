@@ -91,7 +91,7 @@ sections:
           a céu aberto ou nas ruas e praças do país
 
         image:
-          url: /images/transferir (20).png
+          url: /images/icone-de-negocios-sustentaveis_1167636-11470.avif
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
