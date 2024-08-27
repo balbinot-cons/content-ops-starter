@@ -713,7 +713,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Concluir
         showIcon: false
         icon: arrowRight
         iconPosition: right
