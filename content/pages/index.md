@@ -617,7 +617,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Nos contacte
+      label: fale conosco
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
