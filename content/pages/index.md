@@ -209,6 +209,16 @@ sections:
       styles:
         self:
           borderRadius: medium
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: '/https://www.youtube.com/shorts/IaTVwhaVnOo'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: GenericSection
     title:
       text: Tempo de decomposição de resíduos
