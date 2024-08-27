@@ -448,7 +448,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Noticias
       color: text-primary
       styles:
         self:
