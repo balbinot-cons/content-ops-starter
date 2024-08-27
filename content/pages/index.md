@@ -178,7 +178,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Como ela funciona
       color: text-dark
       styles:
         self:
