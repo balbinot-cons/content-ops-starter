@@ -7,7 +7,7 @@ sections:
       text: Transformando a Gestão de Resíduos em Conhecimento e Ação
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: EducaTec
     text: >+
       No Lixeira Educatec, acreditamos que a educação é a chave para um futuro
       mais sustentável. Nosso objetivo é revolucionar a maneira como a gestão de
