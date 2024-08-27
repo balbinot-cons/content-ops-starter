@@ -204,7 +204,7 @@ sections:
       opacity: 100
     media:
       type: ImageBlock
-      url: /images/transferir (2).jfif
+      url: /images/transferir (4).jfif
       altText: Image alt text placeholder
       elementId: ''
       styles:
