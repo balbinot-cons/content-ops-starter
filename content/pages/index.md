@@ -163,7 +163,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: '5r´s '
+      text: 5R
       color: text-dark
       styles:
         self:
