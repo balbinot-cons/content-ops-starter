@@ -27,7 +27,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Veja Tutoriais
+      - label: Veja Tutoria
         altText: ''
         url: /
         showIcon: true
