@@ -456,7 +456,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: Grande Mancha
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: "A grande mancha de\_lixo\_do\_Pacífico\_configura-se como um acúmulo de resíduos plásticos de 1,6 milhão de quilômetros quadrados e cerca de 80 mil toneladas.\n\n"
