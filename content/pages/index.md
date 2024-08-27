@@ -386,9 +386,7 @@ sections:
     title: null
     subtitle: Desenvolvedores do Projeto
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: Guilherme Augusto Brandalise
         tagline: ''
         subtitle: Guilherme Augusto Brandalise
         text: >-
