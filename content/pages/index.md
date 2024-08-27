@@ -471,7 +471,7 @@ sections:
         text: |
           **Idealizadora do projeto, participou do desenvolvimento teórioco** 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/file (1).jpg
           altText: Maria Walters
           styles:
             self:
