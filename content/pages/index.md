@@ -182,7 +182,7 @@ sections:
 
     media:
       title: Title of the video
-      url: ''
+      url: 'file:///C:/Users/Bornhausen/Downloads/Quais%20s%C3%A3o%20os%205R''s.mp4'
       controls: false
       aspectRatio: '16:9'
       styles:
