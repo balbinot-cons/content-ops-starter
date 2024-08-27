@@ -213,7 +213,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: '/https://www.youtube.com/shorts/IaTVwhaVnOo'
+        url: 'file:///C:/Users/Bornhausen/Downloads/Quais%20s%C3%A3o%20os%205R''s.mp4'
         showIcon: false
         icon: arrowRight
         iconPosition: right
