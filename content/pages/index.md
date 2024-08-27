@@ -170,11 +170,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      0s 5Rs são princípios fundamentais para uma abordagem sustentável e
+      consciente em nossa vida cotidiana. Eles representam Reduzir, Reutilizar,
+      Reciclar, Repensar e Recusar. Esses conceitos visam minimizar o
+      desperdício e o impacto ambiental, incentivando práticas que promovam a
+      eficiência e a responsabilidade. Ao adotar os 5Rs, podemos contribuir para
+      a preservação dos recursos naturais e a construção de um futuro mais
+      sustentável para as próximas gerações.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
