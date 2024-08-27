@@ -106,7 +106,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -116,7 +116,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-            textAlign: left
+            textAlign: center
             justifyContent: center
         type: FeaturedItem
       - title: 200%
