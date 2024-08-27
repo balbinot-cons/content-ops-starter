@@ -276,7 +276,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Desenvolvedores do Projeto
+    subtitle: Nossa Equipe
     items:
       - title: Guilherme Augusto Brandalise
         tagline: ''
