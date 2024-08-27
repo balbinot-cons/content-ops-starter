@@ -83,8 +83,8 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: Account Executive
-        subtitle: Sales
+      - title: Open Source Engineer
+        subtitle: Marketing
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
@@ -102,8 +102,8 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Open Source Engineer
-        subtitle: Marketing
+      - title: Account Executive
+        subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
