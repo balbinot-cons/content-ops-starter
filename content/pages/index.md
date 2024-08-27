@@ -94,7 +94,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: Lixo Reciclado
         subtitle: The Job Stuff
         text: >+
           O Brasil só reciclou 4% dos quase 82 milhões de toneladas de resíduos
