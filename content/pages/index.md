@@ -388,7 +388,7 @@ sections:
     items:
       - title: Guilherme Augusto Brandalise
         tagline: ''
-        subtitle: ''
+        subtitle: Aluno
         text: |
           **Desenvolveu o projeto técnico e estrutural da Lixeira EducaTec**
         image:
