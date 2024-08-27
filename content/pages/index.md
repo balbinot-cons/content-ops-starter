@@ -510,17 +510,13 @@ sections:
       - title: ' O Boticário'
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           O Boticário inicia campanha que troca frasco vazio por um perfume
           novo.
 
 
           Saiba mais em:
-          https\://www\.cnnbrasil.com.br/economia/negocios/o-boticario-inicia-campanha-que-troca-frasco-vazio-por-um-perfume-novo/
-
-
-          #
-
+          <https://www.cnnbrasil.com.br/economia/negocios/o-boticario-inicia-campanha-que-troca-frasco-vazio-por-um-perfume-novo/>
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
