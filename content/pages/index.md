@@ -414,7 +414,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Estevam Biava Ramos
-        tagline: Aluno
+        tagline: ''
         subtitle: aluno
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
