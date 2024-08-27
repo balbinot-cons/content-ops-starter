@@ -90,7 +90,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/transferir (7).jfif
+          url: /images/transferir (9).jfif
           styles:
             self:
               borderRadius: x-large
