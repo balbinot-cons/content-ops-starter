@@ -384,7 +384,7 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: Desenvolvedores do projeto
+    subtitle: Desenvolvedores do Projeto
     items:
       - title: >-
           “A designer knows he has achieved perfection not when there is nothing
