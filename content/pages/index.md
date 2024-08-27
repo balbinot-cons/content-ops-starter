@@ -60,7 +60,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 'Brasil e sua produção '
+      text: Estatísticas brasileiras
       color: text-dark
       styles:
         self:
