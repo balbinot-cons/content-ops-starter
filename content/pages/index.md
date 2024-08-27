@@ -469,7 +469,7 @@ sections:
         tagline: ''
         subtitle: Professora
         text: |
-          **Idealizadora do projeto, participou do desenvolvimento teórioco** 
+          **Idealizadora do projeto, participou do desenvolvimento teórico**
         image:
           url: /images/file (1).jpg
           altText: Maria Walters
