@@ -417,8 +417,8 @@ sections:
         tagline: ''
         subtitle: Aluno
         text: >
-          Desenvolveu a parte técnica, criou e treinou a inteligência artificial
-          utilizada no projeto
+          **Desenvolveu a parte técnica, criou e treinou a inteligência
+          artificial utilizada no projeto**
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
