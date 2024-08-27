@@ -60,7 +60,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Principais benefícios
+      text: 'Brasil e sua produção '
       color: text-dark
       styles:
         self:
