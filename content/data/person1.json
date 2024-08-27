@@ -9,6 +9,9 @@
                 "borderRadius": "medium",
                 "margin": [
                     "mb-8"
+                ],
+                "padding": [
+                    "pt-4"
                 ]
             }
         },
