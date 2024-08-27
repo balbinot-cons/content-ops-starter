@@ -511,13 +511,8 @@ sections:
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >+
-          # O Boticário inicia campanha que troca frasco vazio por um perfume
-          novo
-
-
-
-
-
+          O Boticário inicia campanha que troca frasco vazio por um perfume
+          novo.
 
 
           #
