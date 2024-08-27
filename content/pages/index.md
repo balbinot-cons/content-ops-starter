@@ -71,7 +71,7 @@ sections:
       - type: FeaturedItem
         title: Lixo Produzido
         subtitle: ''
-        text: "Não se pode negar que a quantidade de\_lixo produzido\_pela população mundial é exorbitante. Para ser mais exato, são 1,4 bilhão de toneladas de Resíduos Sólidos Urbanos (RSU) por ano. Isso significa uma média de 1,2 kg per capita ao dia.\n\n"
+        text: "Em 2022, foram produzidas 81,8 milhões de toneladas de resíduos nas áreas urbanas, o equivalente a 224 mil toneladas diárias. Cada indivíduo gerou em média 381 kg por ano, o que representa mais de um quilo de\_lixo\_por dia.\n\n"
         actions: []
         elementId: null
         colors: bg-dark-fg-light
