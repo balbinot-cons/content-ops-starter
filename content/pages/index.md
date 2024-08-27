@@ -17,16 +17,7 @@ sections:
       impacto dos resíduos e a adotarem soluções práticas para reduzir,
       reutilizar e reciclar. Junte-se a nós nessa jornada para transformar cada
       gesto cotidiano em um passo rumo a um planeta mais limpo e saudável.
-    actions:
-      - label: Comece já
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: >-
         /images/DALL·E 2024-08-27 00.28.18 - A sustainable trash bin design with
