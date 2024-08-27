@@ -182,7 +182,7 @@ sections:
 
     media:
       title: Title of the video
-      url: 'https://www.youtube.com/shorts/IaTVwhaVnOo?feature=share'
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
