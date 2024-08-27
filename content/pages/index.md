@@ -163,7 +163,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Funcionamento
+      text: Sustentabilidade
       color: text-dark
       styles:
         self:
