@@ -443,7 +443,7 @@ sections:
         tagline: ''
         subtitle: Professora
         text: |
-          Idealizadora do projeto
+          **Idealizadora do projeto**
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
