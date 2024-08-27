@@ -209,16 +209,7 @@ sections:
       styles:
         self:
           borderRadius: medium
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: 'file:///C:/Users/Bornhausen/Downloads/Quais%20s%C3%A3o%20os%205R''s.mp4'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
   - type: GenericSection
     title:
       text: Tempo de decomposição de resíduos
