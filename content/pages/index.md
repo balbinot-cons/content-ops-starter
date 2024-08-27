@@ -482,8 +482,12 @@ sections:
       - title: Paris 2024
         tagline: ''
         subtitle: ''
-        text: |
-          Startup francesa transforma lixo em pódio e assentos de estádios
+        text: >
+          Startup francesa transforma lixo em pódio e assentos de estádios.
+
+
+          Saiba mais em:
+          https\://www\.cnnbrasil.com.br/tecnologia/paris-2024-startup-francesa-transforma-lixo-em-podio-e-assentos-de-estadios/
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
