@@ -448,7 +448,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: Noticias
+      text: Notícias
       color: text-primary
       styles:
         self:
