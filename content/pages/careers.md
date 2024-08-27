@@ -10,12 +10,18 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      Colaboração em equipe é a força que potencializa cada habilidade
+      individual, criando um todo mais forte e inovador. É o processo onde
+      diferentes perspectivas e especialidades se encontram, se entrelaçam e se
+      complementam. Quando todos os membros se engajam com propósito e empenho,
+      o grupo consegue superar desafios e alcançar metas que seriam impossíveis
+      de atingir isoladamente. A verdadeira magia da colaboração está na
+      habilidade de combinar o conhecimento coletivo para resolver problemas
+      complexos e gerar soluções criativas. É uma dança constante de
+      comunicação, confiança e respeito mútuo, onde cada contribuição é valiosa
+      e essencial para o sucesso final.
+
     actions:
       - label: See open positions
         url: /
