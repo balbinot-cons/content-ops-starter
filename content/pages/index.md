@@ -178,7 +178,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Como ela funciona
+      text: Funcionamento
       color: text-dark
       styles:
         self:
