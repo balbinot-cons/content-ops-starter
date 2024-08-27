@@ -496,7 +496,7 @@ sections:
         type: FeaturedItem
       - title: Welington Antonio Balbinot
         tagline: ''
-        subtitle: 'Jane Walters, Company'
+        subtitle: Professor
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
