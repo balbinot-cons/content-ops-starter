@@ -518,7 +518,7 @@ sections:
           Saiba mais em:
           <https://www.cnnbrasil.com.br/economia/negocios/o-boticario-inicia-campanha-que-troca-frasco-vazio-por-um-perfume-novo/>
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/DSC00899.webp
           altText: Placeholder image
           styles:
             self:
