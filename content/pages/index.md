@@ -457,8 +457,8 @@ sections:
     subtitle: ''
     items:
       - title: Grande Mancha
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+        tagline: ''
+        subtitle: ''
         text: "A grande mancha de\_lixo\_do\_Pacífico\_configura-se como um acúmulo de resíduos plásticos de 1,6 milhão de quilômetros quadrados e cerca de 80 mil toneladas.\n\n"
         image:
           url: /images/abstract-feature1.svg
