@@ -8,17 +8,15 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: EducaTec
-    text: >+
-      No Lixeira Educatec, acreditamos que a educação é a chave para um futuro
-      mais sustentável. Nosso objetivo é revolucionar a maneira como a gestão de
-      resíduos é abordada, transformando informações complexas em práticas
-      acessíveis e acionáveis. Por meio de programas educativos, workshops
-      interativos e recursos informativos, capacitamos indivíduos e comunidades
-      a entenderem o impacto dos resíduos e a adotarem soluções práticas para
-      reduzir, reutilizar e reciclar. Junte-se a nós nessa jornada para
-      transformar cada gesto cotidiano em um passo rumo a um planeta mais limpo
-      e saudável.
-
+    text: >
+      Acreditamos que a educação é a chave para um futuro mais sustentável.
+      Nosso objetivo é revolucionar a maneira como a gestão de resíduos é
+      abordada, transformando informações complexas em práticas acessíveis e
+      acionáveis. Por meio de programas educativos, workshops interativos e
+      recursos informativos, capacitamos indivíduos e comunidades a entenderem o
+      impacto dos resíduos e a adotarem soluções práticas para reduzir,
+      reutilizar e reciclar. Junte-se a nós nessa jornada para transformar cada
+      gesto cotidiano em um passo rumo a um planeta mais limpo e saudável.
     actions:
       - label: Comece já
         altText: ''
