@@ -508,7 +508,7 @@ sections:
             textAlign: center
         type: FeaturedItem
       - title: ' O Boticário'
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >+
           O Boticário inicia campanha que troca frasco vazio por um perfume
