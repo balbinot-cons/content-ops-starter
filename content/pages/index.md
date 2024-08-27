@@ -465,7 +465,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: Andressa Campagnin
         tagline: ''
         subtitle: Professora
         text: >-
