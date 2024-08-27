@@ -416,10 +416,9 @@ sections:
       - title: Estevam Biava Ramos
         tagline: ''
         subtitle: Aluno
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Desenvolveu a parte técnica, criou e treinou a inteligência artificial
+          utilizada no projeto
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
