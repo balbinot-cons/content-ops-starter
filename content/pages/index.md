@@ -141,7 +141,7 @@ sections:
             justifyContent: center
             textAlign: center
     actions:
-      - label: Vamos Começar
+      - label: ''
         altText: ''
         url: /
         showIcon: false
