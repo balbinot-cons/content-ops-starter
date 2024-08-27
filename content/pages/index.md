@@ -497,10 +497,8 @@ sections:
       - title: Welington Antonio Balbinot
         tagline: ''
         subtitle: Professor
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          **Participou do desenvolvimento técnico e prático do projeto**
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
