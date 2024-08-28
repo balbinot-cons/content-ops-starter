@@ -27,7 +27,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Lixeira EducaTech
+      label: Lixeira EduTech
       color: text-primary
       type: Badge
     elementId: ''
