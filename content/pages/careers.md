@@ -23,7 +23,7 @@ sections:
       e essencial para o sucesso final.
 
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
