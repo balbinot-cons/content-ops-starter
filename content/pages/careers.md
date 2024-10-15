@@ -62,7 +62,7 @@ sections:
       - content/data/person5.json
       - content/data/person6.json
     variant: three-col-grid
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         padding:
